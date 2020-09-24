@@ -1,0 +1,5 @@
+﻿  个人项目-论文查重.cpp
+c:\users\lenovo\source\repos\个人项目-论文查重\个人项目-论文查重\个人项目-论文查重.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+个人项目-论文查重.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  个人项目-论文查重.vcxproj -> C:\Users\Lenovo\source\repos\个人项目-论文查重\Debug\个人项目-论文查重.exe
